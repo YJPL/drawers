@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zeevonk
+title: Zeevonk VFX & SFX sequences
 description: Zeevonk, storyboard for VFX & SFX sequences
 date: '2024-11-27 06:42:48 +0100'
 last_modified_at:
