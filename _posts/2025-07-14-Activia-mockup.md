@@ -9,7 +9,7 @@ categories:
 - Advertising
 ---
 
-![Activia tablet mockup](/images/LUON_Danone_Tablet-visuals—Activia.png)
+![Activia tablet mockup](/images/LUON_Danone_tablet_visual_Activia.png)
 
 
 *Activia* Tablet mockup for microsite
