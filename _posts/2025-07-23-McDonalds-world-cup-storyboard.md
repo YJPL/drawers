@@ -3,10 +3,10 @@ layout: post
 title: McDonalds World Cup storyboard
 description: McDonalds World Cup storyboard, frame 012B
 date: '2025-07-23 06:42:48 +0100'
-last_modified_at:
+last_modified_at: 2025-07-24
 categories:
 - Storyboards
-- Feature Films
+- Advertising
 ---
 
 
