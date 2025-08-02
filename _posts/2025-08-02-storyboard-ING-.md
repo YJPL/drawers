@@ -13,7 +13,7 @@ categories:
 ![ING, Work with Flow, storyboard frame 09C](/images/09C.png)
 
 
-Directors: **Kai Schonrath*
+Directors: **Kai Schonrath**
 
 Production: **CZAR**
 
