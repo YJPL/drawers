@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-last_modified_at: 2025-08-05
+last_modified_at: 2025-08-06
 permalink: /about/
 ---
 
@@ -19,9 +19,9 @@ See [Film Storyboards portfolio](https://film-storyboards.com "Film Storyboards 
 
 Credits: [IMDb](https://www.imdb.com/name/nm2326905/ "Yves Capelle IMDb credits")
 
-Twitter/X: [@FilmStoryboards](https://twitter.com/FilmStoryboards "Film Storyboards on Twitter/X")
-
 Substack: [https://filmstoryboards.substack.com](https://filmstoryboards.substack.com)
+
+Twitter/X: [@FilmStoryboards](https://twitter.com/FilmStoryboards "Film Storyboards on Twitter/X")
 
 Facebook: [fb.me/filmstoryboards](https://fb.me/filmstoryboards "Film Storyboards on Facebook")
 
@@ -41,11 +41,11 @@ You may also want to check [Templates Supply](https://templates.supply) for more
 
 <h2>contact:</h2>
 
-<p>Call +32  475 418 327 for commissions, illustrations and storyboarding  inquiries or send an email to <a href="https://film-storyboards.com/contact" title="Contact - Film Storyboards / Production Design">Yves Capelle</a>.</p>
+<p>Call +32  475 418 327 for commissions, illustrations and storyboarding inquiries, or send an email to <a href="https://film-storyboards.com/contact" title="Contact - Film Storyboards / Production Design">Yves Capelle</a>.</p>
 
 <hr>
 
-No free pitches, no spec work, no tests, thank you very much.
+**No free pitches, no spec work, no tests**, thank you very much.
 <hr>
 
 <br>
