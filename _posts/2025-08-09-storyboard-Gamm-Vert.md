@@ -3,7 +3,7 @@ layout: post
 title: Gamm Vert 10'
 description: Gamm Vert storyboard 10 secondes
 date: '2025-08-09 06:42:48 +0100'
-last_modified_at:
+last_modified_at: 2026-09-02
 categories:
 - Storyboards
 - Advertinsing
@@ -29,7 +29,7 @@ categories:
 ![Gamm Vert storyboard 10 secondes 09](/images/Gamm_Vert_storyboards_10_secondes-9.png)
 
 
-Directors: **Rosalie Charrier**
+Director: **Rosalie Charrier**
 
 Production: **Partizan**
 
