@@ -3,10 +3,10 @@ layout: post
 title: Gamm Vert 10'
 description: Gamm Vert storyboard 10 secondes
 date: '2025-08-09 06:42:48 +0100'
-last_modified_at: 2026-09-02
+last_modified_at: 2026-09-03
 categories:
 - Storyboards
-- Advertinsing
+- Advertising
 ---
 
 
